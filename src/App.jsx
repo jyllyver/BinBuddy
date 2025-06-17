@@ -45,9 +45,6 @@ function App() {
           <button onClick={handleResultClick} className="analyze-screen-button">
             Show Result
           </button>
-          <button onClick={handleClosePopup} className="analyze-screen-button">
-            Test
-          </button>
         </div>
       )}
 

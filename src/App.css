@@ -66,11 +66,12 @@
   background: rgba(225, 238, 188, 0.96);
   color: rgba(47, 62, 70, 1);
   padding: 2rem;
-  border-radius: 8px;
+  border-radius: 9%;
   text-align: justify;
   box-shadow: 0 4px 12px rgba(0,0,0,0.3);
   width: 244px;
   height: 129px;
+
 }
 
 .popup-box button {
